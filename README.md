@@ -1,4 +1,6 @@
 # Statistical-analysis-of-google-play-store-data
+![image](https://user-images.githubusercontent.com/63378154/135049719-8aac0b41-5e26-4f78-9202-2ad2512053ab.png)
+
 
 Inferential and discreptive analysis of google play store data to find useful insights about the apps on google play store
 
